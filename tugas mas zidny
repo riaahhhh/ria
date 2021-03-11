@@ -1,0 +1,7 @@
+print ("PROGRAM PYTHON MENGHITUNG VOLUME BALOK")
+p = int(input("Panjang = "))
+l = int(input("Lebar   = "))
+t = int(input("Tinggi  = "))
+
+v = p*l*t
+print ("Volume Balok = {}".format(v))
